@@ -1,4 +1,4 @@
-# Santander Data Masters Machine Learning Program
+# Data Masters Machine Learning Program
 
 ### __Curriculum - _Machine Learning Engineer Certification___
 
